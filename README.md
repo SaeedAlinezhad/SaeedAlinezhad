@@ -23,7 +23,7 @@ I enjoy building real-world solutions like fitness apps, gold shop management sy
 
 ## 📌 GitHub Pins
 
-[![orbix_chat](https://github-readme-stats.vercel.app/api/pin/?username=SaeedAlinezhad&repo=ai_chat_ui)](https://github.com/SaeedAlinezhad/ai_chat_ui)  
+[![orbix_chat](https://github-readme-stats.vercel.app/api/pin/?username=SaeedAlinezhad&repo=ai_chatbot_ui)](https://github.com/SaeedAlinezhad/ai_chatbot_ui)  
 
 *(Private repos not displayed, but I work daily on multiple production-level projects)*  
 
